@@ -6,7 +6,7 @@
 4. I initialized a new Expo project with this command: npx create-expo-app@latest .
 
 
-## Observations from the reset-project command.
+# Observations from the reset-project command.
 
 When i ran the npm run reset-project command, I was asked whether I want to delete the template or to keep it in an app-example  directory, which I opted in.
 
